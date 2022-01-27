@@ -5,7 +5,7 @@ date:   2022-01-27 14:14:33 -0800
 categories: jekyll update
 ---
 ## What is my hobby? ##
-My hobby is doing workout 
+My hobby is doing workout. 
 ### Why? ###
 Because while I doing workout, I dont think any other things like life,bad things etc. I can say I am gym rat.
 
